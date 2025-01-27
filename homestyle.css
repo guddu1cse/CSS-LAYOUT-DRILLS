@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+}
+a{
+    border-radius: 5px;
+    border: 1px solid #2f42bd;
+    padding: 10px;
+    background-color: grey;
+    color: white;
+    border-color: rgb(21, 17, 150);
+    text-decoration:double;
+}
