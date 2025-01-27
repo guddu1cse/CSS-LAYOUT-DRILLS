@@ -5,10 +5,19 @@
 }
 a{
     border-radius: 5px;
+    width: 150px;
     border: 1px solid #2f42bd;
     padding: 10px;
     background-color: grey;
     color: white;
     border-color: rgb(21, 17, 150);
     text-decoration:double;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
+
+a:hover{
+    background-color: #73799c;
+}
+
+
