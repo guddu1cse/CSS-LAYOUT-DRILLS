@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main{
+    height: 100vh;
+    width: 100vw;
+}
+
+.outer-1{
+    display: flex;
+    justify-content: space-between;
+    justify-content: baseline;
+    width: 65vw;
+    height: 300px;
+}
+
+.outer-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: last baseline;
+    width: 65vw;
+    height: 300px;
+}
+
+.big{
+    height: 350px;
+    width: 350px;
+    background-color: gray;
+}
+
+.small{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+
